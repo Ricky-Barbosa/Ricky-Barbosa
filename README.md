@@ -1,7 +1,7 @@
 # Hello I'm Henrique 🦖
 ## Aspiring Python Developer | Data Learner
 - Developer in training with a focus on Python and Data Analysis.
-- I have knowledge of Python, MySQL, and database fundamentals.
+- I have knowledge of Python, SQL, and database fundamentals.
 - I constantly seek to improve my skills through study and practical projects.
 - E-mail: jhooosse9@gmail.com
 
