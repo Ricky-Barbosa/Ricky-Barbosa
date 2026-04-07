@@ -19,5 +19,4 @@
 
 ## Socials
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/Ricky-Barbosa) &nbsp;&nbsp;
-[![Instagram](https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/jose.rique_/) &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-barbosa-887740391?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
